@@ -1,7 +1,7 @@
 package simacogo;
 
 import java.util.Arrays;
-
+//test
 //class for the board object
 public class Board {
 	String[][] board = new String[9][9];
